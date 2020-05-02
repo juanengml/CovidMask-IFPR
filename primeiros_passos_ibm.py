@@ -1,11 +1,3 @@
-# CovidMask-IFPR
-
-### primeiros passos instale as dependencias
-
-$ pip install -r requirimentes.txt
-
-### pegue suas credenciais e collection_ids
-
 from IBM import Model
 # pegar credenciais
 api_key = " "
